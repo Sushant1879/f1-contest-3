@@ -1,0 +1,133 @@
+body {
+  margin: none;
+}
+.container {
+  display: grid;
+}
+h1 {
+  position: absolute;
+  width: 600px;
+  height: 94px;
+  left: 59px;
+  /* top: 56px; */
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 35px;
+
+  color: #000000;
+}
+.topleft {
+  position: absolute;
+  width: 634px;
+  height: 560px;
+  left: 67px;
+  top: 150px;
+}
+.image1 {
+  position: absolute;
+  width: 634px;
+  height: 560px;
+  left: 1px;
+  top: 1px;
+}
+.topcenter {
+  position: absolute;
+  width: 300px;
+  height: 261px;
+  left: 735px;
+  top: 150px;
+}
+.image2 {
+  position: absolute;
+  width: 300px;
+  height: 261px;
+  left: 1px;
+  top: 1px;
+}
+.topright {
+  position: absolute;
+  width: 300px;
+  height: 261px;
+  left: 1069px;
+  top: 150px;
+}
+.image3 {
+  position: absolute;
+  width: 300px;
+  height: 261px;
+  left: 1px;
+  top: 1px;
+}
+.center {
+  position: absolute;
+  width: 300px;
+  height: 261px;
+  left: 735px;
+  top: 449px;
+}
+.image4 {
+  position: absolute;
+  width: 300px;
+  height: 261px;
+  left: 1px;
+  top: 1px;
+}
+.centerright {
+  position: absolute;
+  width: 300px;
+  height: 261px;
+  left: 1069px;
+  top: 449px;
+}
+.image5 {
+  position: absolute;
+  width: 300px;
+  height: 261px;
+  left: 1px;
+  top: 1px;
+}
+
+.bottomleft {
+  position: absolute;
+  width: 634px;
+  height: 238px;
+  left: 67px;
+  top: 741px;
+}
+.image6 {
+  position: absolute;
+  width: 634px;
+  height: 238px;
+  left: 1px;
+  top: 1px;
+}
+
+.bottomright {
+  position: absolute;
+  width: 634px;
+  height: 238px;
+  left: 735px;
+  top: 741px;
+}
+.image7 {
+  position: absolute;
+  width: 634px;
+  height: 238px;
+  left: 1px;
+  top: 1px;
+}
+.bottomright a {
+  position: absolute;
+  font-family: "Inter";
+  top: 190px;
+  left: 410px;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 51px;
+  font-style: normal;
+  text-decoration: none;
+  color: #000000;
+}
